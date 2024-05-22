@@ -2,5 +2,5 @@
 Benjamin Aspinall - https://github.com/scabral4asu/team3icebreaker/pull/1
 Borys Banaszkiewicz - link
 David DeMers - link
-Jenny Potocki - link
+Jenny Potocki - https://github.com/scabral4asu/team3icebreaker/pull/2
 Pryce Holmes - link
